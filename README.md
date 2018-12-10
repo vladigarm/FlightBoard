@@ -1,6 +1,6 @@
 # spa
 
-> flights
+> This is SPA of a flight board, which is showing an information of arrival and departure and flight status on a real time.
 
 ## Build Setup
 
